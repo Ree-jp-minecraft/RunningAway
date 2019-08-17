@@ -1,0 +1,9 @@
+name: Runningaway
+api: 3.0.0
+main: Runningaway\Main
+version: 0.0.1
+commands:
+ console:
+  usage: /console <help>
+  description: GameManager
+author: Ree_
